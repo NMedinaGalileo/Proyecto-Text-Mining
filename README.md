@@ -4,8 +4,6 @@
 
 * `Problema 1 - Word Cloud` - Solución ejercicio 1
 * `Problema 2 - Fruits and Vegetables Recognizer:` - Solución ejercicio 2
-* No sé cargo `tw_source.csv`
-* No sé cargo `Fruits_Vegetables_Dataset(12000)`
 
 ## Ejercicio 1
 
